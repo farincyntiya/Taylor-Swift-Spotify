@@ -11,5 +11,4 @@ Thanks to my curiosity and some sources I found on the internet, I succeed in ex
 The process of creating this dashboard was challenging and initially, some things were complicated, but that's how I got to learn a lot and had fun exploring the features of Tableau!
 
 Take a look at the dashboard here:
-
 [Tableau Dashboard: Taylor Swift's Spotify](https://public.tableau.com/views/TaylorSwiftsSpotify/TSspotify?:language=en-US&:display_count=n&:origin=viz_share_link)
