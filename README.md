@@ -1,7 +1,5 @@
 ## Taylor Swift's Albums Data Extraction using Spotify API and Spotipy Library
 
----
-
 Most people who know me probably know that I've always been a big fan of Taylor Swift. It warmed my heart when some of them say that when they think of Taylor Swift, or when they listen to her songs, they think of me too. How sweet!
 
 Inspired by the "Swiftie" side of me, I built a Tableau dashboard using Taylor Swift's albums data. At first, I found a neat and clean dataset about Taylor Swift's entire discography on Kaggle, which made me end up being curious about how the publisher obtained the data. Besides, I only intended to use the albums data owned by Taylor Swift, not the albums she has lost the rights to, back in 2019.
